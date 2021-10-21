@@ -1,1 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T17:12:52.253Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="m5A0WYuu0VVz_18m0ZV8" version="15.5.4" type="github"><diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">7Vpvd5o6HP40vtw9BITqy+pstzN31lN7T19HyCS3SFgIU/bpl0BS1KiEtSC33TlayY8Q5Xme37+UgTNdb28pTMKvJEDRwLaC7cD5OLBtYNsO/xCWXFkcUFpWFAfSVhkW+BeSRktaMxygdG8iIyRiONk3+iSOkc/2bJBSstmf9p1E+9+awBXSDAsfRrr1EQcsLK0j16rsnxBeheqbgSXPrKGaLA1pCAOy2TE5s4EzpYSw8mi9naJIoKdwKa+7OXH2+YdRFDOTC5w4m9xs6djP51YSf3t8sOHtB7nKTxhl8obvZvdfuOXfO/7n8fPDJ/5xzd/z64eHmbwRlit0+D0l4pDBpTBN/BBHwRzmJGPKqkYTzsUcxwWXlphKomwd71pSBimTChgKQ8jWET8G/HATYoYWCfTFyQ3XWrlCBJMUF19drECRn9EU/0T3KC3XEVa0TWAcyMF3ErOFvIEjECo8EGVou2OSkN4iskaM5nyKOqv4lgK/ksNNJRZP2cIdoTjqOigFunpeuuKQH0gaG1Bqa5RqtKGAa1wOCWUhWZEYRrPKysnK4gAp0Ko5c0ISScl/iLFc0gUzRvYJ06E9p7+UZNRHZ+ZdSdeHdIXOricnijs8Sx9FEWRcKfsB47W5cDQuplnK+OJUd6UNXkcwFuCHhOJfXKcwkvgnBMes+G3uhL+4cqbWP+7A5ddN+RhUY/4S0ymbkjhlFOICfQRTtkEp68rJmpFv4GzSuYaGzgVGbTnXUCP0BhUpj2HK3eUMqTJBwQrIPlHhGFOxPUkFcDqlwu1xWBsahjXPMKz1K6p5mhMshJQ1Piq0T0l6B1lIfYm620C3yh+NdWvvp2tPl/H4iIqHbYn4So8nmPuubS0hxTxAnMHUqse0IxCBfWEURxqKX+ETEo5FYZxCn2ESv6PYDI4UoU63eXKsMXKPfmSiBLEtHqIY6kTYo6bI9U3YqgvewXGS5f3GELh9A1FvcmXRliD6lL+jwOBevmoDve5GTdtRIKGv70dlbu1J5Qb0hvQjxfFTpxEFNN5k6VnRBvQucBbrzV8H5e+Lobx8cHb1DHei9P27Q1K/Q2If4fPoFkl7AV7vDv88w14aftcY/4bbIu3Br3eUtxQhUXf7p7YeWwnyXlPoDiLTxQOT3lS+Ix0bt5DtCVlvITX8e1Q5SrXUVo5K1rWVo7rdnlSOtt6JXvs+Snhg8SKRNpc8rngrcZTAfC3Q6iTMvLg9vXScsfXu9JFiUYpbAWIQR6mOsNjN4uE80QOS/H9sQPys4KAW52VJynzZOvCHlacZ7l5ruNsa7nLT8HgnpKBNKPFRmhogC/2nVaH5bxmLsMgSLQPs9UzZerP5jjKo8V5LaxnU1tvUPmdQwwQKTB8FGL92/iwuvaYU5jsTZONZrXwnDDvp5tApvYOndGrmq524SgjlL6hk8XwrL1CK3oS/AaWMTSst0K9Ky6CB/v+R8fzwXu2OqdULv3WsZn57OL8bv9Wb/TcgFWDcIr26VF7muKM3AL5SUL2fOr3wU9dp5qeH89UG+B/6KR9WT/CW06sHoZ3Zbw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-21T17:23:56.950Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="z_bddQvX_Z0mJVuU0qNd" version="15.5.4" type="github">
+  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
+    <mxGraphModel dx="2215" dy="1695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8vbbiOyCjL_XKFmDOEdO-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=44;strokeWidth=4;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="92" width="840" height="880" as="geometry" />
+        </mxCell>
+        <mxCell id="8vbbiOyCjL_XKFmDOEdO-2" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="160" y="552" width="600" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="8vbbiOyCjL_XKFmDOEdO-3" value="가열로 6" style="rounded=0;whiteSpace=wrap;html=1;fontSize=33;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;strokeWidth=3;" vertex="1" parent="8vbbiOyCjL_XKFmDOEdO-2">
+          <mxGeometry width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8vbbiOyCjL_XKFmDOEdO-4" value="가열로 7" style="rounded=0;whiteSpace=wrap;html=1;fontSize=33;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;strokeWidth=3;" vertex="1" parent="8vbbiOyCjL_XKFmDOEdO-2">
+          <mxGeometry y="100" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8vbbiOyCjL_XKFmDOEdO-5" value="가열로 11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=33;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;strokeWidth=3;" vertex="1" parent="8vbbiOyCjL_XKFmDOEdO-2">
+          <mxGeometry y="260" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8vbbiOyCjL_XKFmDOEdO-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/font-awesome/1792/ellipsis-v-128.png;fontSize=22;" vertex="1" parent="8vbbiOyCjL_XKFmDOEdO-2">
+          <mxGeometry x="80" y="200" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8vbbiOyCjL_XKFmDOEdO-7" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.6;dx=35;fontSize=22;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=3;" vertex="1" parent="8vbbiOyCjL_XKFmDOEdO-2">
+          <mxGeometry x="316" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8vbbiOyCjL_XKFmDOEdO-8" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-90;strokeWidth=5;strokeColor=#808080;" vertex="1" parent="8vbbiOyCjL_XKFmDOEdO-2">
+          <mxGeometry x="110" y="152.5" width="270" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="8vbbiOyCjL_XKFmDOEdO-12" value="&lt;b&gt;&lt;font style=&quot;font-size: 44px&quot;&gt;단조 공정&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;strokeWidth=4;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="387" y="50" width="226" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8vbbiOyCjL_XKFmDOEdO-13" value="가열로 1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=33;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="160" y="172" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8vbbiOyCjL_XKFmDOEdO-14" value="가열로 2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=33;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="160" y="272" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8vbbiOyCjL_XKFmDOEdO-15" value="가열로 5" style="rounded=0;whiteSpace=wrap;html=1;fontSize=33;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="160" y="432" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8vbbiOyCjL_XKFmDOEdO-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/font-awesome/1792/ellipsis-v-128.png;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="240" y="372" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8vbbiOyCjL_XKFmDOEdO-17" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.6;dx=35;fontSize=22;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="476" y="272" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8vbbiOyCjL_XKFmDOEdO-19" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-90;strokeWidth=5;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="270" y="327.5" width="270" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="8vbbiOyCjL_XKFmDOEdO-20" value="프레스기 2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=33;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="639" y="652" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8vbbiOyCjL_XKFmDOEdO-21" value="프레스기 1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=33;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="639" y="272" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8vbbiOyCjL_XKFmDOEdO-23" value="절단기" style="rounded=0;whiteSpace=wrap;html=1;fontSize=33;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="272" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8vbbiOyCjL_XKFmDOEdO-25" value="열처리로" style="rounded=0;whiteSpace=wrap;html=1;fontSize=33;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="652" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8vbbiOyCjL_XKFmDOEdO-27" value="&lt;font style=&quot;font-size: 33px ; background-color: rgb(255 , 255 , 255)&quot;&gt;후속 공정&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="485" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8vbbiOyCjL_XKFmDOEdO-31" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.6;dx=35;fontSize=22;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=3;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8vbbiOyCjL_XKFmDOEdO-32" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.6;dx=35;fontSize=22;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="980" y="272" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8vbbiOyCjL_XKFmDOEdO-33" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.6;dx=35;fontSize=22;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="980" y="652" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8vbbiOyCjL_XKFmDOEdO-34" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-90;strokeWidth=5;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="485" width="390" height="35" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
