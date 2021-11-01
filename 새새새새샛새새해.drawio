@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-10-31T14:27:00.521Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="ciK-OmuQDt_lOOvd5kdZ" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-01T01:29:01.003Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="CL2IO812Vh-n42t-66l5" version="15.5.4" type="github">
   <diagram id="gFr691sdQ6GinaGu0FWh" name="Page-1">
-    <mxGraphModel dx="915" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="917" dy="1095" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rmFUcFzzjlkstGjP6RBZ-2" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;rounded=1;sketch=0;fontSize=16;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="rmFUcFzzjlkstGjP6RBZ-2" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;rounded=1;sketch=0;fontSize=16;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="14" y="175" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rmFUcFzzjlkstGjP6RBZ-3" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="rmFUcFzzjlkstGjP6RBZ-2" vertex="1">
@@ -30,7 +30,7 @@
             <mxRectangle width="72" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rmFUcFzzjlkstGjP6RBZ-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i style=&quot;font-size: 30px&quot;&gt;n&lt;/i&gt;&lt;sub&gt;&lt;font size=&quot;1&quot;&gt;&lt;i style=&quot;font-size: 20px&quot;&gt;i&lt;/i&gt;&lt;/font&gt;&lt;/sub&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" parent="rmFUcFzzjlkstGjP6RBZ-3" vertex="1">
+        <mxCell id="rmFUcFzzjlkstGjP6RBZ-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i style=&quot;font-size: 30px&quot;&gt;n&lt;/i&gt;&lt;sub&gt;&lt;font size=&quot;1&quot;&gt;&lt;i style=&quot;font-size: 20px&quot;&gt;i&lt;/i&gt;&lt;/font&gt;&lt;/sub&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeWidth=1.5;" parent="rmFUcFzzjlkstGjP6RBZ-3" vertex="1">
           <mxGeometry x="288" width="72" height="60" as="geometry">
             <mxRectangle width="72" height="60" as="alternateBounds" />
           </mxGeometry>
@@ -41,7 +41,7 @@
         <mxCell id="rmFUcFzzjlkstGjP6RBZ-44" value="&lt;font&gt;&lt;font style=&quot;background-color: rgb(255 , 255 , 255) ; font-size: 25px&quot;&gt;프레스기 작업 평가 기준&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="409" y="120" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bVtT1iExyT5-dV63p8Pk-16" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;rounded=1;sketch=0;fontSize=16;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="bVtT1iExyT5-dV63p8Pk-16" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;rounded=1;sketch=0;fontSize=16;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="374" y="175" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bVtT1iExyT5-dV63p8Pk-17" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Times New Roman;" parent="bVtT1iExyT5-dV63p8Pk-16" vertex="1">
@@ -72,10 +72,10 @@
             <mxRectangle width="72" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b8mR-7doDClbnr-IIUCr-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;fontFamily=Times New Roman;fontSize=16;rotation=-90;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="b8mR-7doDClbnr-IIUCr-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;fontFamily=Times New Roman;fontSize=16;rotation=-90;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="184.04" y="-15.47" width="20" height="355.31" as="geometry" />
         </mxCell>
-        <mxCell id="b8mR-7doDClbnr-IIUCr-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;fontFamily=Times New Roman;fontSize=16;rotation=-90;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="b8mR-7doDClbnr-IIUCr-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;fontFamily=Times New Roman;fontSize=16;rotation=-90;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="544" y="-15.47" width="20" height="355.31" as="geometry" />
         </mxCell>
       </root>
